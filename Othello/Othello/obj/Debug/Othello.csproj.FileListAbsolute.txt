@@ -1,0 +1,10 @@
+C:\Users\keita\source\repos\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\keita\source\repos\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\keita\source\repos\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.cache
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\keita\source\repos\Othello\Othello\obj\Debug\Othello.Form1.resources
